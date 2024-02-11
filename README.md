@@ -17,56 +17,6 @@ And If you want to link to [EzArcher](https://www.youtube.com/watch?v=G6a2TpyrIh
 
 
 
-### Screen Shots of My Project:
-
-
-
-
-<details>
-<summary>Welcome Page</summary>
-![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/1.png)
-<\details>      
-<details>
-<summary>Region</summary>
-![Region](https://github.com/rezasharifi82/Calamares/tree/main/shot/2.png)
-<\details>
-
-
-<details>
-<summary>Keyboard</summary>
-![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/3.png)
-<\details>
-
-
-<details>
-<summary>Partitions</summary>
-![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/4.png)
-<\details>
-
-
-<details>
-<summary>Users1</summary>
-![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/5.png)
-<\details>
-
-
-<details>
-<summary>Users2</summary>
-![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/6.png)
-<\details>
-
-
-
-
-
-
-
-
-
-
---------     
-
-
 
 ### 1. Calamares Installation
 Ok, In this step you should install calamares. There are several way to install calamares.     
@@ -231,6 +181,23 @@ Branding folder consists of several important things. Remember, the branding fol
 **fumarch** is the name of my branding.    
 Those ```.qml``` files configure the graphical part of each page(It's easy to understand and you can even edit it by texteditor:))      
 The important file of this folder is ```branding.desc```.(Feel free to read it carefully :))
+
+
+
+### 5.module
+module is another important folder. You can configure the back part of you qml files which you've edited in the branding folder. I actually mean you can write down what those files should do in order to preform as best as it can be.(See some of them and you'll realize what i mean)
+
+
+---------
+
+
+### Screen Shots of My Project:
+
+
+![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/1.png)
+
+--------     
+
 
 
 
