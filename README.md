@@ -194,10 +194,30 @@ module is another important folder. You can configure the back part of you qml f
 ### Screen Shots of My Project:
 
 
-![Welcome Page](https://github.com/rezasharifi82/Calamares/tree/main/shot/1.png)
+| ![Welcome Page](https://github.com/rezasharifi82/Calamares/blob/main/shot/1.png?raw=true) | ![Region](https://github.com/rezasharifi82/Calamares/blob/main/shot/2.png?raw=true) |
+|--|--|
+| ![Keyboard](https://github.com/rezasharifi82/Calamares/blob/main/shot/3.png?raw=true) | ![Partitions](https://github.com/rezasharifi82/Calamares/blob/main/shot/4.png?raw=true) |
+
+|![User2](https://github.com/rezasharifi82/Calamares/blob/main/shot/5.png?raw=true)|
+|:--:|
+|![User2](https://github.com/rezasharifi82/Calamares/blob/main/shot/6.png?raw=true)|
+
+
+
+
+
+
+
+
+
+
+
+
 
 --------     
 
+
+## This project has designed for OS course at Ferdowsi University of Mashhad- fall 2023
 
 
 
